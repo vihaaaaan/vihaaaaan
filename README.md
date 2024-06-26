@@ -1,5 +1,10 @@
-## Hi there 👋
-
+# hi! i'm vihaan 👋
+and i love designing & building cool software products. my interests include edtech, data science, and web dev. 
+### currently i am...
+- studying comp sci @ ohio state
+- a product management intern @ kroger
+- building a whitelabel platform for NIL collectives 
+- learning web dev & ML 
 <!--
 **vihaaaaan/vihaaaaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
