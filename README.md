@@ -2,7 +2,7 @@
 and i love designing & building cool software products. my interests include edtech, data science, and web dev. 
 ### currently i am...
 - studying comp sci @ ohio state 🎓
-- a product management intern @ kroger🍓
+- a product intern @ kroger🍓
 - building a whitelabel platform for NIL collectives 🏈
 - learning web dev & ML 💻
 <!--
