@@ -1,7 +1,7 @@
 # Hi! I'm Vihaan 👋
 I enjoy designing & building cool software products. My interests include EdTech, Data Science, and Web Dev. 
 ### currently i am...
-- Studying CS @ ohio state 🎓
+- Studying CS @ Ohio State 🎓
 - A Product Intern @ Kroger🍓
 - Building a whitelabel platform for NIL collectives 🏈
 - Learning Web Dev & ML 💻
