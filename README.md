@@ -1,7 +1,6 @@
 # Hi! I'm Vihaan 👋
 I enjoy designing & building cool software products. My interests include EdTech, Data Science, and Web Dev. 
 ### currently i am...
-- Building a whitelabel platform for NIL collectives 🏈
 - Learning Web Dev & ML 💻
 <!--
 **vihaaaaan/vihaaaaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
