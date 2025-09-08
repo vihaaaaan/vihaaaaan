@@ -1,4 +1,4 @@
-# hi! i'm Vihaan 👋
+# Hi! I'm Vihaan 👋
 I enjoy designing & building cool software products
 ### currently i am...
 - learning web dev & and machine learning 💻
