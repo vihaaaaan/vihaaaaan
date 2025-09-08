@@ -1,8 +1,8 @@
-# Hi! I'm Vihaan 👋
-I enjoy designing & building cool software products. My interests include EdTech, Data Science, and Web Dev. 
+# hi! i'm Vihaan 👋
+I enjoy designing & building cool software products
 ### currently i am...
-- Learning Web Dev & ML 💻
-- Building AI Agents⚡
+- learning web dev & and machine learning 💻
+- building ai agents 🤖
 <!--
 **vihaaaaan/vihaaaaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
