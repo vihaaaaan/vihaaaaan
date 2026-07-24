@@ -1,5 +1,5 @@
-# Hi! I'm Vihaan 👋
-I enjoy designing & building cool software products
+# hi! I'm vihaan 👋
+i enjoy designing & building cool software products
 ### currently i am...
 - working on [craftpath](https://craftpath.ai/)
 - learning about long horizon agents
