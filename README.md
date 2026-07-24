@@ -1,8 +1,9 @@
 # Hi! I'm Vihaan 👋
 I enjoy designing & building cool software products
 ### currently i am...
-- learning web dev & and machine learning 💻
-- building ai agents 🤖
+- working on [craftpath](https://craftpath.ai/)
+- learning about long horizon agents
+- building with imessage as an interface
 <!--
 **vihaaaaan/vihaaaaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
