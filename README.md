@@ -2,8 +2,7 @@
 i enjoy designing & building cool software products
 ### currently i am...
 - working on [craftpath](https://craftpath.ai/)
-- learning about long horizon agents
-- playing around with consumer software ideas
+- learning ml 
 <!--
 **vihaaaaan/vihaaaaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
